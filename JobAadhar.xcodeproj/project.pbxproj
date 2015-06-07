@@ -14,6 +14,7 @@
 		D3785F9F1B243D400053CF94 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D3785F9E1B243D400053CF94 /* Images.xcassets */; };
 		D3785FA21B243D400053CF94 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D3785FA01B243D400053CF94 /* LaunchScreen.xib */; };
 		D3785FAE1B243D400053CF94 /* JobAadharTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3785FAD1B243D400053CF94 /* JobAadharTests.swift */; };
+		D3785FB81B244D0C0053CF94 /* Authentifying.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3785FB71B244D0C0053CF94 /* Authentifying.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		D3785FA71B243D400053CF94 /* JobAadharTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JobAadharTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D3785FAC1B243D400053CF94 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D3785FAD1B243D400053CF94 /* JobAadharTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JobAadharTests.swift; sourceTree = "<group>"; };
+		D3785FB71B244D0C0053CF94 /* Authentifying.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Authentifying.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 			isa = PBXGroup;
 			children = (
 				D3785F941B243D400053CF94 /* AppDelegate.swift */,
+				D3785FB71B244D0C0053CF94 /* Authentifying.swift */,
 				D3785F991B243D400053CF94 /* ViewController.swift */,
 				D3785F9B1B243D400053CF94 /* Main.storyboard */,
 				D3785F9E1B243D400053CF94 /* Images.xcassets */,
@@ -216,6 +219,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D3785F9A1B243D400053CF94 /* ViewController.swift in Sources */,
+				D3785FB81B244D0C0053CF94 /* Authentifying.swift in Sources */,
 				D3785F981B243D400053CF94 /* JobAadhar.xcdatamodeld in Sources */,
 				D3785F951B243D400053CF94 /* AppDelegate.swift in Sources */,
 			);
